@@ -1,0 +1,32 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+#heads {
+  height: 5rem;
+  width: 5rem;
+  background: gold;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#tails {
+  height: 5rem;
+  width: 5rem;
+  background: silver;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
